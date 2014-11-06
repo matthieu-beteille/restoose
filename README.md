@@ -8,7 +8,7 @@
 
 #### 1.2. Model associations
 
-With this kickstarter project, you can define different kind of associations between your models.
+Restoose allow to define different kind of associations between your models.
 
 ##### 1.1.1. [OneToOne](https://github.com/matthieu-beteille/kickstarter/wiki/OneToOne)
 ##### 1.1.2. [ManyToMany](https://github.com/matthieu-beteille/kickstarter/wiki/ManyToMany)
