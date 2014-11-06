@@ -24,7 +24,7 @@ Now you can scaffold your new RESToose project :
 
 You juste have to create your models in /models to generate your RESToose API.
 
-See the wiki to see how to create models, and controllers.
+See the wiki to know how to create models, and controllers.
 
 #### Keywords
 
