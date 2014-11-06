@@ -1,6 +1,6 @@
 # RESToose - Project description
 
-RESToose helps you generate your REST API in a few minutes
+RESToose helps you generate your REST API in a few minutes using mongoDB (mongoose) and nodejs.
  
 See restoose's [wiki](https://github.com/matthieu-beteille/kickstarter/wiki/Home) for documentation !
  
