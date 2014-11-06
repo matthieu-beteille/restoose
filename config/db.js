@@ -7,6 +7,6 @@ module.exports = {
   /*
     Set host attribute with your db address
    */
-  host: 'mongodb://localhaaost/test-api-generator'
+  host: 'mongodb://localhost/test-api-generator'
 
 };
