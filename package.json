@@ -25,6 +25,7 @@
     "express": "^4.4.3",
     "express-session": "^1.8.2",
     "mongoose": "^3.8.12",
+    "mongoose-unique-validator": "^0.4.1",
     "underscore": "^1.6.0"
   },
   "devDependencies": {
