@@ -2,7 +2,7 @@
 
 RESToose helps you generate your REST API in a few minutes using mongoDB (mongoose) and nodejs.
  
-See restoose's [wiki](https://github.com/matthieu-beteille/kickstarter/wiki/Home) for documentation !
+See restoose's [wiki](https://github.com/matthieu-beteille/restoose/wiki/Home) for documentation !
  
 ### Get started
 
